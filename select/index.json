@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ゴールライン",
+  "base_artist": "Argonavis",
+  "createdAt": "2026-03-02T12:51:01.635608Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ゴールライン",
+      "artist": "Argonavis",
+      "has_synced": false,
+      "path": "select/01_ゴールライン_Argonavis.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ゴールライン",
+      "artist": "Argonavis",
+      "has_synced": false,
+      "path": "select/pl_01_ゴールライン_Argonavis.txt"
+    }
+  ]
+}
